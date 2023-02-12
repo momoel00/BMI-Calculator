@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+body{
+  text-align: center;
+  margin-top: 50px;
+  background-color: aqua;
+}
+
+h3{
+  margin: 15px;
+  font-size: medium;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.input {
+  border: 0.5px solid black;
+  border-radius: 6px;
+  padding: 6px;
+}
+
+
+#btn {
+  padding: 6px;
+  border: none;
+  border-radius: 10px;
+  background-color: black;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 50px;
+}
+
+h4 {
+  font-size: medium;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  margin: auto;
+}
+
+p{
+  margin-bottom: 20px;
+}
